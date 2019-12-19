@@ -1,6 +1,6 @@
 {
-	"id": "nodebb-plugin-quickstart",
-	"url": "https://github.com/NodeBB/nodebb-plugin-quickstart",
+	"id": "nodebb-plugin-azn-form",
+	"url": "https://github.com/ItzMeDwii/nodebb-plugin-azn-form",
 	"library": "./library.js",
 	"hooks": [
 		{
